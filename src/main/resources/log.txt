@@ -1,0 +1,13 @@
+[INFO]	17-01-2025 13:52:35	CounterServlet init
+[INFO]	17-01-2025 13:52:35	CounterServlet doGet
+[INFO]	17-01-2025 13:52:35	CounterServlet - counter is 1
+[INFO]	17-01-2025 13:52:42	SettingsServlet init
+[INFO]	17-01-2025 13:52:42	SettingsServlet doGet is running
+[INFO]	17-01-2025 13:52:46	AboutMeServlet init
+[INFO]	17-01-2025 13:52:46	AboutMeServlet doGet is running
+[INFO]	17-01-2025 13:52:50	LoggerServlet init
+[INFO]	17-01-2025 13:52:50	LoggerServlet doGet is run
+[INFO]	17-01-2025 13:56:12	AboutMeServlet init
+[INFO]	17-01-2025 13:56:12	AboutMeServlet doGet is running
+[INFO]	17-01-2025 13:57:34	AboutMeServlet init
+[INFO]	17-01-2025 13:57:34	AboutMeServlet doGet is running
